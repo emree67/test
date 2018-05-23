@@ -1,0 +1,38 @@
+{
+  "values": [
+    {
+      "meta": {
+        "synonyms": [
+          "Comment Group",
+          "test"
+        ]
+      },
+      "value": "Comment Crew"
+    },
+    {
+      "value": "Nitro",
+      "meta": {
+        "country": "CN"
+      }
+    },
+    {
+      "value": "Codoso",
+      "meta": {
+        "country": "CN",
+	"synonyms": [
+	"Kameras"
+        ]
+      }
+    },
+   {
+      "value": "Test123",
+      "meta": {
+        "country": "CN",
+        "synonyms": [
+          "rgtrgtr",
+          "Apples"
+        ]
+      }
+    }
+  ]
+}
